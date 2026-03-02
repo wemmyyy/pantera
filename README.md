@@ -1,2 +1,2 @@
 # pantera
-https://github.com/wemmyyy/pantera/
+https://github.com/wemmyyy/pantera.git/
